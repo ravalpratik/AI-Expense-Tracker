@@ -1,0 +1,801 @@
+Date,Category,Amount,Month,Year,Payment Mode,Description,User ID
+2024-01-01,Bills,4164.54,1,2024,Wallet,Electricity bill,5
+2024-01-02,Medical,4051.9,1,2024,UPI,Doctor visit,4
+2024-01-02,Food,240.95,1,2024,UPI,Home delivery,1
+2024-01-02,Education,3887.49,1,2024,UPI,Stationery,3
+2024-01-02,Entertainment,2347.12,1,2024,Credit Card,Gaming,2
+2024-01-03,Travel,2952.56,1,2024,Credit Card,Bus ticket,2
+2024-01-03,Food,2164.17,1,2024,Cash,Restaurant dinner,5
+2024-01-03,Travel,2494.76,1,2024,Credit Card,Fuel,2
+2024-01-05,Shopping,3298.86,1,2024,Credit Card,Electronics,1
+2024-01-06,Other,1956.93,1,2024,UPI,Donation,2
+2024-01-07,Education,5506.44,1,2024,Net Banking,Books,4
+2024-01-08,Food,2366.04,1,2024,Debit Card,Restaurant dinner,1
+2024-01-08,Medical,3345.54,1,2024,Credit Card,Lab test,1
+2024-01-09,Entertainment,1349.69,1,2024,Debit Card,Concert,3
+2024-01-10,Food,891.76,1,2024,Wallet,Grocery shopping,4
+2024-01-10,Food,897.72,1,2024,Wallet,Restaurant dinner,5
+2024-01-11,Medical,1036.18,1,2024,Debit Card,Doctor visit,5
+2024-01-11,Bills,6859.86,1,2024,Debit Card,Gas bill,5
+2024-01-12,Bills,1359.14,1,2024,Debit Card,Gas bill,5
+2024-01-13,Education,6843.7,1,2024,Debit Card,Exam fee,3
+2024-01-14,Bills,7301.6,1,2024,Debit Card,Gas bill,1
+2024-01-14,Education,2190.25,1,2024,Net Banking,Online course,1
+2024-01-15,Travel,397.06,1,2024,Debit Card,Fuel,4
+2024-01-15,Education,7949.52,1,2024,Debit Card,Exam fee,2
+2024-01-15,Travel,148.29,1,2024,Wallet,Cab ride,1
+2024-01-16,Other,1856.42,1,2024,UPI,Donation,5
+2024-01-20,Other,1574.74,1,2024,Credit Card,Repair,5
+2024-01-20,Food,1831.56,1,2024,UPI,Restaurant dinner,4
+2024-01-20,Entertainment,2211.13,1,2024,Wallet,Concert,5
+2024-01-21,Entertainment,2320.22,1,2024,Credit Card,Gaming,5
+2024-01-21,Shopping,7158.0,1,2024,UPI,Gift purchase,5
+2024-01-21,Entertainment,2904.7,1,2024,Credit Card,Movie ticket,5
+2024-01-21,Food,333.69,1,2024,UPI,Fast food,1
+2024-01-22,Other,1360.95,1,2024,Credit Card,Repair,5
+2024-01-23,Other,1333.55,1,2024,Cash,Repair,3
+2024-01-25,Food,898.74,1,2024,Net Banking,Snacks,4
+2024-01-26,Education,2599.94,1,2024,Debit Card,Course fee,1
+2024-01-26,Bills,7573.77,1,2024,Wallet,Mobile recharge,4
+2024-01-27,Bills,5433.73,1,2024,UPI,Rent,5
+2024-01-27,Education,5090.63,1,2024,Wallet,Online course,1
+2024-01-27,Shopping,8669.71,1,2024,Net Banking,Footwear,4
+2024-01-28,Medical,3608.5,1,2024,UPI,Health checkup,5
+2024-01-28,Other,1204.19,1,2024,Cash,Miscellaneous,5
+2024-01-28,Shopping,6067.52,1,2024,UPI,Accessories,3
+2024-01-30,Entertainment,2651.86,1,2024,Credit Card,Streaming subscription,3
+2024-02-01,Other,1716.47,2,2024,Debit Card,Pet supplies,2
+2024-02-01,Food,1247.53,2,2024,UPI,Fast food,1
+2024-02-02,Entertainment,1315.8,2,2024,UPI,Movie ticket,1
+2024-02-02,Food,979.2,2,2024,Credit Card,Home delivery,1
+2024-02-03,Food,1782.04,2,2024,Net Banking,Snacks,3
+2024-02-03,Bills,5592.97,2,2024,UPI,Mobile recharge,4
+2024-02-03,Food,2133.55,2,2024,Wallet,Grocery shopping,5
+2024-02-03,Food,829.63,2,2024,UPI,Home delivery,4
+2024-02-04,Entertainment,315.56,2,2024,Debit Card,Movie ticket,5
+2024-02-07,Food,2415.12,2,2024,Net Banking,Coffee shop,4
+2024-02-08,Food,1037.29,2,2024,Debit Card,Home delivery,4
+2024-02-09,Food,1114.68,2,2024,Debit Card,Snacks,3
+2024-02-09,Shopping,13208.57,2,2024,UPI,Gift purchase,4
+2024-02-09,Entertainment,1641.15,2,2024,Cash,Movie ticket,5
+2024-02-10,Bills,3644.19,2,2024,Credit Card,Gas bill,5
+2024-02-10,Food,1122.51,2,2024,Credit Card,Fast food,2
+2024-02-10,Entertainment,645.67,2,2024,Debit Card,Sports event,5
+2024-02-10,Entertainment,1144.62,2,2024,UPI,Concert,2
+2024-02-12,Entertainment,182.28,2,2024,Wallet,Movie ticket,5
+2024-02-12,Education,4525.39,2,2024,Wallet,Course fee,3
+2024-02-13,Shopping,14826.54,2,2024,UPI,Footwear,2
+2024-02-14,Other,1799.71,2,2024,UPI,Pet supplies,1
+2024-02-14,Bills,3717.17,2,2024,Debit Card,Water bill,3
+2024-02-15,Medical,3260.65,2,2024,Wallet,Medicines,5
+2024-02-16,Food,1798.3,2,2024,Credit Card,Fast food,1
+2024-02-16,Education,911.38,2,2024,UPI,Exam fee,5
+2024-02-17,Food,1970.53,2,2024,Cash,Fast food,1
+2024-02-17,Other,184.41,2,2024,Net Banking,Personal care,5
+2024-02-17,Other,1683.06,2,2024,UPI,Pet supplies,4
+2024-02-18,Entertainment,543.24,2,2024,Debit Card,Streaming subscription,1
+2024-02-18,Other,805.73,2,2024,Wallet,Repair,3
+2024-02-18,Shopping,10420.04,2,2024,UPI,Clothing,5
+2024-02-21,Travel,1170.93,2,2024,UPI,Auto rickshaw,1
+2024-02-21,Food,1456.02,2,2024,UPI,Snacks,4
+2024-02-21,Medical,2797.43,2,2024,UPI,Medicines,3
+2024-02-22,Entertainment,1913.56,2,2024,Credit Card,Concert,3
+2024-02-23,Entertainment,1977.19,2,2024,UPI,Movie ticket,3
+2024-02-23,Food,859.22,2,2024,UPI,Fast food,2
+2024-02-24,Entertainment,2860.34,2,2024,UPI,Gaming,5
+2024-02-25,Entertainment,2401.96,2,2024,Credit Card,Streaming subscription,3
+2024-02-25,Food,2339.21,2,2024,Net Banking,Home delivery,5
+2024-02-25,Entertainment,2548.52,2,2024,Credit Card,Concert,3
+2024-02-27,Medical,878.96,2,2024,Debit Card,Lab test,3
+2024-02-28,Other,1649.45,2,2024,UPI,Personal care,5
+2024-02-29,Medical,3396.56,2,2024,Debit Card,Lab test,5
+2024-02-29,Medical,4842.15,2,2024,Credit Card,Health checkup,4
+2024-03-02,Bills,4711.9,3,2024,Debit Card,Mobile recharge,5
+2024-03-03,Shopping,5221.68,3,2024,UPI,Clothing,1
+2024-03-03,Education,760.22,3,2024,Credit Card,Exam fee,5
+2024-03-03,Shopping,3009.17,3,2024,Wallet,Clothing,3
+2024-03-04,Food,1756.35,3,2024,Cash,Grocery shopping,3
+2024-03-05,Bills,3982.01,3,2024,UPI,Rent,2
+2024-03-06,Shopping,9019.15,3,2024,Credit Card,Footwear,4
+2024-03-08,Travel,1329.33,3,2024,Cash,Bus ticket,4
+2024-03-10,Other,1726.29,3,2024,Credit Card,Miscellaneous,2
+2024-03-11,Other,1088.78,3,2024,UPI,Donation,4
+2024-03-11,Entertainment,1171.63,3,2024,UPI,Streaming subscription,3
+2024-03-13,Shopping,3079.25,3,2024,Net Banking,Clothing,5
+2024-03-14,Food,1991.94,3,2024,Debit Card,Home delivery,2
+2024-03-15,Shopping,13314.83,3,2024,UPI,Online order,4
+2024-03-16,Travel,1372.18,3,2024,UPI,Cab ride,5
+2024-03-16,Shopping,10265.61,3,2024,UPI,Accessories,3
+2024-03-17,Food,1050.87,3,2024,Credit Card,Snacks,2
+2024-03-17,Shopping,14544.21,3,2024,Debit Card,Accessories,2
+2024-03-17,Bills,967.12,3,2024,Wallet,Rent,4
+2024-03-17,Medical,4500.81,3,2024,UPI,Pharmacy,2
+2024-03-18,Other,1397.49,3,2024,Credit Card,Donation,1
+2024-03-18,Bills,6729.29,3,2024,UPI,Internet bill,2
+2024-03-18,Medical,974.58,3,2024,UPI,Lab test,3
+2024-03-19,Bills,7830.26,3,2024,Debit Card,Electricity bill,3
+2024-03-21,Medical,1095.67,3,2024,Credit Card,Doctor visit,3
+2024-03-21,Shopping,12058.67,3,2024,Cash,Footwear,2
+2024-03-22,Entertainment,2612.8,3,2024,UPI,Gaming,3
+2024-03-23,Entertainment,2571.79,3,2024,UPI,Sports event,4
+2024-03-23,Shopping,9539.29,3,2024,UPI,Electronics,2
+2024-03-25,Bills,4532.42,3,2024,UPI,Internet bill,4
+2024-03-27,Travel,2001.65,3,2024,UPI,Auto rickshaw,2
+2024-03-27,Bills,2848.89,3,2024,UPI,Internet bill,3
+2024-03-27,Bills,7141.03,3,2024,UPI,Mobile recharge,2
+2024-03-28,Food,658.17,3,2024,UPI,Snacks,3
+2024-03-28,Travel,2252.44,3,2024,UPI,Parking fee,5
+2024-03-29,Travel,1368.88,3,2024,Credit Card,Train ticket,2
+2024-03-29,Travel,2782.27,3,2024,UPI,Train ticket,3
+2024-03-29,Other,1570.36,3,2024,Debit Card,Repair,2
+2024-03-30,Bills,738.37,3,2024,UPI,Electricity bill,5
+2024-03-30,Entertainment,2905.93,3,2024,Debit Card,Concert,4
+2024-04-01,Bills,2241.65,4,2024,Debit Card,Rent,1
+2024-04-02,Food,1730.83,4,2024,Debit Card,Snacks,1
+2024-04-02,Entertainment,317.64,4,2024,Wallet,Movie ticket,2
+2024-04-03,Bills,5312.78,4,2024,Wallet,Gas bill,4
+2024-04-03,Education,2308.3,4,2024,Credit Card,Online course,1
+2024-04-03,Bills,3406.45,4,2024,Net Banking,Mobile recharge,3
+2024-04-04,Medical,4164.09,4,2024,UPI,Pharmacy,3
+2024-04-04,Travel,2653.69,4,2024,UPI,Parking fee,4
+2024-04-05,Travel,1231.07,4,2024,UPI,Bus ticket,1
+2024-04-05,Shopping,11219.92,4,2024,Net Banking,Accessories,1
+2024-04-06,Shopping,12097.67,4,2024,UPI,Electronics,2
+2024-04-07,Entertainment,2765.54,4,2024,UPI,Streaming subscription,5
+2024-04-07,Food,1887.73,4,2024,Wallet,Fast food,5
+2024-04-07,Entertainment,2681.85,4,2024,Net Banking,Movie ticket,1
+2024-04-09,Shopping,5290.54,4,2024,Net Banking,Accessories,4
+2024-04-09,Other,1310.36,4,2024,Debit Card,Repair,2
+2024-04-09,Food,1366.99,4,2024,Credit Card,Fast food,1
+2024-04-10,Other,494.52,4,2024,Wallet,Repair,4
+2024-04-12,Food,572.23,4,2024,UPI,Coffee shop,5
+2024-04-12,Medical,2338.95,4,2024,UPI,Doctor visit,4
+2024-04-12,Other,1147.23,4,2024,Debit Card,Miscellaneous,5
+2024-04-12,Travel,237.33,4,2024,UPI,Bus ticket,2
+2024-04-13,Bills,3848.31,4,2024,Debit Card,Rent,1
+2024-04-13,Travel,1849.95,4,2024,UPI,Fuel,4
+2024-04-14,Food,509.11,4,2024,Credit Card,Fast food,3
+2024-04-15,Entertainment,2528.39,4,2024,Credit Card,Movie ticket,4
+2024-04-15,Travel,2646.54,4,2024,UPI,Bus ticket,1
+2024-04-15,Education,5309.45,4,2024,Net Banking,Stationery,3
+2024-04-15,Food,2345.14,4,2024,Credit Card,Fast food,4
+2024-04-16,Other,324.25,4,2024,UPI,Miscellaneous,5
+2024-04-16,Shopping,9088.08,4,2024,Credit Card,Accessories,2
+2024-04-18,Shopping,5560.38,4,2024,Debit Card,Footwear,4
+2024-04-18,Food,452.18,4,2024,Net Banking,Restaurant dinner,3
+2024-04-19,Travel,611.89,4,2024,Wallet,Cab ride,4
+2024-04-20,Education,671.85,4,2024,Debit Card,Online course,3
+2024-04-21,Bills,1732.66,4,2024,UPI,Rent,3
+2024-04-21,Food,452.72,4,2024,UPI,Fast food,5
+2024-04-21,Food,1536.24,4,2024,Net Banking,Coffee shop,4
+2024-04-22,Bills,693.35,4,2024,UPI,Electricity bill,2
+2024-04-24,Travel,499.73,4,2024,Wallet,Cab ride,3
+2024-04-25,Travel,2201.42,4,2024,UPI,Parking fee,2
+2024-04-25,Food,1829.71,4,2024,UPI,Restaurant dinner,2
+2024-04-25,Entertainment,1377.99,4,2024,UPI,Movie ticket,4
+2024-04-26,Education,4867.21,4,2024,Credit Card,Stationery,5
+2024-04-26,Travel,359.34,4,2024,Debit Card,Parking fee,5
+2024-04-26,Travel,2541.19,4,2024,UPI,Auto rickshaw,5
+2024-04-27,Medical,1168.03,4,2024,Debit Card,Lab test,4
+2024-04-27,Entertainment,574.92,4,2024,UPI,Concert,2
+2024-04-27,Food,2009.17,4,2024,Net Banking,Grocery shopping,2
+2024-04-28,Entertainment,2217.44,4,2024,UPI,Concert,1
+2024-04-29,Food,2368.34,4,2024,Wallet,Coffee shop,4
+2024-04-29,Bills,5876.88,4,2024,Cash,Water bill,4
+2024-04-29,Entertainment,2874.46,4,2024,Net Banking,Sports event,3
+2024-04-30,Shopping,13022.62,4,2024,Credit Card,Online order,4
+2024-05-01,Food,286.87,5,2024,Debit Card,Coffee shop,5
+2024-05-01,Medical,3242.97,5,2024,Cash,Health checkup,4
+2024-05-02,Food,386.17,5,2024,UPI,Grocery shopping,2
+2024-05-03,Entertainment,1741.2,5,2024,UPI,Movie ticket,3
+2024-05-07,Other,788.14,5,2024,UPI,Pet supplies,4
+2024-05-07,Travel,2296.46,5,2024,UPI,Fuel,5
+2024-05-07,Medical,1590.21,5,2024,UPI,Doctor visit,1
+2024-05-09,Travel,2923.66,5,2024,UPI,Auto rickshaw,5
+2024-05-09,Education,1500.37,5,2024,Debit Card,Course fee,3
+2024-05-10,Food,1679.08,5,2024,Debit Card,Fast food,5
+2024-05-10,Food,54.4,5,2024,Wallet,Snacks,3
+2024-05-11,Food,2125.82,5,2024,UPI,Coffee shop,4
+2024-05-11,Food,2008.21,5,2024,Wallet,Fast food,5
+2024-05-12,Bills,1146.62,5,2024,UPI,Mobile recharge,5
+2024-05-14,Bills,1656.9,5,2024,Net Banking,Internet bill,3
+2024-05-15,Shopping,3588.41,5,2024,Debit Card,Clothing,4
+2024-05-16,Bills,3108.27,5,2024,Wallet,Internet bill,5
+2024-05-17,Travel,2304.6,5,2024,UPI,Cab ride,4
+2024-05-18,Entertainment,627.01,5,2024,UPI,Concert,4
+2024-05-18,Entertainment,1620.43,5,2024,Cash,Sports event,4
+2024-05-19,Travel,1821.54,5,2024,UPI,Parking fee,5
+2024-05-19,Travel,1423.52,5,2024,Debit Card,Cab ride,5
+2024-05-20,Medical,2050.37,5,2024,UPI,Lab test,1
+2024-05-20,Entertainment,771.16,5,2024,Cash,Streaming subscription,4
+2024-05-20,Shopping,13499.6,5,2024,Debit Card,Online order,5
+2024-05-21,Medical,2848.35,5,2024,Credit Card,Medicines,1
+2024-05-22,Food,1425.35,5,2024,Debit Card,Coffee shop,3
+2024-05-23,Medical,1517.39,5,2024,UPI,Health checkup,1
+2024-05-23,Education,6622.93,5,2024,UPI,Stationery,3
+2024-05-23,Shopping,2851.35,5,2024,Debit Card,Online order,5
+2024-05-24,Food,62.32,5,2024,UPI,Home delivery,1
+2024-05-25,Medical,1022.34,5,2024,Credit Card,Medicines,3
+2024-05-25,Entertainment,2554.79,5,2024,Wallet,Concert,2
+2024-05-26,Medical,2063.84,5,2024,Debit Card,Doctor visit,2
+2024-05-26,Food,1430.06,5,2024,Debit Card,Home delivery,2
+2024-05-26,Entertainment,2479.31,5,2024,Debit Card,Streaming subscription,4
+2024-05-27,Education,7184.57,5,2024,Wallet,Online course,5
+2024-05-29,Food,752.85,5,2024,Debit Card,Fast food,3
+2024-05-29,Food,1405.61,5,2024,Credit Card,Home delivery,2
+2024-05-30,Entertainment,365.97,5,2024,Net Banking,Streaming subscription,5
+2024-05-31,Shopping,819.07,5,2024,Net Banking,Accessories,3
+2024-06-02,Travel,1760.74,6,2024,Wallet,Bus ticket,5
+2024-06-02,Medical,3663.45,6,2024,UPI,Health checkup,2
+2024-06-03,Travel,102.95,6,2024,UPI,Cab ride,5
+2024-06-06,Food,1806.33,6,2024,Cash,Grocery shopping,1
+2024-06-08,Travel,1826.34,6,2024,UPI,Parking fee,1
+2024-06-08,Food,1563.7,6,2024,Cash,Snacks,1
+2024-06-09,Food,861.18,6,2024,UPI,Restaurant dinner,4
+2024-06-10,Food,1294.18,6,2024,Cash,Restaurant dinner,5
+2024-06-10,Food,2365.83,6,2024,UPI,Home delivery,5
+2024-06-11,Shopping,13785.46,6,2024,UPI,Footwear,5
+2024-06-12,Travel,1296.32,6,2024,UPI,Train ticket,2
+2024-06-13,Food,1305.97,6,2024,UPI,Home delivery,5
+2024-06-13,Shopping,9610.97,6,2024,Net Banking,Clothing,1
+2024-06-14,Education,5606.47,6,2024,Credit Card,Online course,3
+2024-06-14,Entertainment,2423.65,6,2024,Net Banking,Streaming subscription,4
+2024-06-14,Bills,3581.74,6,2024,Cash,Internet bill,5
+2024-06-15,Shopping,3300.7,6,2024,Debit Card,Accessories,3
+2024-06-15,Medical,2876.81,6,2024,Debit Card,Medicines,3
+2024-06-17,Travel,2479.33,6,2024,Wallet,Train ticket,3
+2024-06-18,Travel,2621.13,6,2024,Wallet,Train ticket,4
+2024-06-18,Education,628.19,6,2024,Debit Card,Stationery,5
+2024-06-18,Food,1254.54,6,2024,UPI,Restaurant dinner,4
+2024-06-19,Shopping,2276.39,6,2024,Net Banking,Accessories,2
+2024-06-20,Bills,7723.1,6,2024,Debit Card,Rent,3
+2024-06-21,Travel,2121.04,6,2024,Credit Card,Fuel,3
+2024-06-22,Bills,3198.05,6,2024,Cash,Rent,2
+2024-06-24,Medical,1299.57,6,2024,UPI,Medicines,1
+2024-06-24,Entertainment,1892.56,6,2024,Cash,Concert,3
+2024-06-24,Bills,5904.75,6,2024,UPI,Gas bill,2
+2024-06-24,Food,2121.06,6,2024,Debit Card,Snacks,1
+2024-06-25,Education,9553.64,6,2024,Cash,Books,5
+2024-06-26,Shopping,8090.28,6,2024,UPI,Online order,3
+2024-06-26,Other,375.97,6,2024,Net Banking,Donation,4
+2024-06-26,Bills,563.48,6,2024,Debit Card,Mobile recharge,2
+2024-06-27,Shopping,5802.07,6,2024,Debit Card,Online order,3
+2024-06-28,Food,1976.96,6,2024,Credit Card,Coffee shop,4
+2024-06-28,Shopping,12596.55,6,2024,Wallet,Clothing,1
+2024-06-28,Bills,5290.44,6,2024,Net Banking,Water bill,2
+2024-06-28,Shopping,1775.68,6,2024,Credit Card,Clothing,3
+2024-06-29,Education,9661.64,6,2024,Debit Card,Stationery,4
+2024-06-30,Other,1274.5,6,2024,Debit Card,Personal care,1
+2024-06-30,Other,1939.01,6,2024,Debit Card,Repair,3
+2024-06-30,Other,1696.35,6,2024,Cash,Repair,3
+2024-07-01,Medical,3502.13,7,2024,Debit Card,Lab test,2
+2024-07-01,Entertainment,1718.44,7,2024,Net Banking,Sports event,1
+2024-07-02,Food,285.97,7,2024,UPI,Restaurant dinner,4
+2024-07-03,Food,243.47,7,2024,Debit Card,Fast food,5
+2024-07-05,Education,1464.52,7,2024,Wallet,Exam fee,5
+2024-07-06,Other,1836.21,7,2024,UPI,Repair,4
+2024-07-07,Food,1660.4,7,2024,Cash,Fast food,4
+2024-07-10,Shopping,3116.7,7,2024,UPI,Clothing,5
+2024-07-10,Shopping,4096.78,7,2024,UPI,Footwear,3
+2024-07-10,Other,1483.4,7,2024,UPI,Miscellaneous,1
+2024-07-10,Food,1524.95,7,2024,Debit Card,Grocery shopping,2
+2024-07-11,Travel,1442.62,7,2024,Wallet,Bus ticket,4
+2024-07-14,Travel,2590.55,7,2024,Net Banking,Cab ride,1
+2024-07-14,Food,818.55,7,2024,UPI,Restaurant dinner,1
+2024-07-16,Travel,2236.36,7,2024,UPI,Parking fee,1
+2024-07-17,Travel,1101.82,7,2024,Cash,Fuel,1
+2024-07-19,Shopping,2205.24,7,2024,Wallet,Clothing,4
+2024-07-19,Education,5556.28,7,2024,UPI,Course fee,4
+2024-07-20,Bills,4631.31,7,2024,Debit Card,Internet bill,3
+2024-07-20,Entertainment,2896.44,7,2024,UPI,Concert,3
+2024-07-20,Travel,2662.42,7,2024,Debit Card,Cab ride,2
+2024-07-21,Shopping,6557.38,7,2024,Debit Card,Clothing,5
+2024-07-21,Education,4974.47,7,2024,UPI,Stationery,1
+2024-07-22,Travel,2475.81,7,2024,UPI,Auto rickshaw,3
+2024-07-22,Medical,3284.34,7,2024,UPI,Health checkup,5
+2024-07-23,Bills,4592.22,7,2024,Debit Card,Rent,5
+2024-07-24,Education,4110.12,7,2024,UPI,Stationery,5
+2024-07-24,Entertainment,823.52,7,2024,Cash,Gaming,2
+2024-07-24,Medical,3710.94,7,2024,Wallet,Pharmacy,4
+2024-07-26,Medical,834.28,7,2024,Net Banking,Lab test,5
+2024-07-27,Education,516.6,7,2024,UPI,Online course,3
+2024-07-30,Medical,1806.67,7,2024,UPI,Pharmacy,4
+2024-07-30,Entertainment,2435.78,7,2024,UPI,Sports event,2
+2024-07-31,Bills,2484.85,7,2024,UPI,Electricity bill,1
+2024-07-31,Bills,6597.9,7,2024,UPI,Internet bill,5
+2024-08-04,Other,1926.05,8,2024,Debit Card,Miscellaneous,1
+2024-08-04,Other,843.98,8,2024,Debit Card,Personal care,4
+2024-08-05,Bills,3467.24,8,2024,Credit Card,Rent,3
+2024-08-05,Other,1125.61,8,2024,Net Banking,Pet supplies,5
+2024-08-08,Shopping,13343.75,8,2024,UPI,Footwear,5
+2024-08-08,Entertainment,1050.6,8,2024,Debit Card,Movie ticket,1
+2024-08-08,Shopping,11765.02,8,2024,UPI,Gift purchase,4
+2024-08-10,Shopping,13068.21,8,2024,UPI,Accessories,5
+2024-08-10,Food,1579.21,8,2024,Debit Card,Coffee shop,5
+2024-08-11,Other,1658.45,8,2024,UPI,Personal care,4
+2024-08-12,Bills,6821.39,8,2024,UPI,Electricity bill,5
+2024-08-12,Bills,5156.68,8,2024,Debit Card,Rent,3
+2024-08-12,Other,982.45,8,2024,Debit Card,Personal care,2
+2024-08-13,Shopping,4239.44,8,2024,Cash,Footwear,5
+2024-08-14,Shopping,5988.79,8,2024,Credit Card,Gift purchase,5
+2024-08-14,Bills,5582.71,8,2024,Debit Card,Mobile recharge,2
+2024-08-14,Education,6480.22,8,2024,Net Banking,Stationery,2
+2024-08-15,Food,2068.0,8,2024,Debit Card,Coffee shop,1
+2024-08-16,Food,523.17,8,2024,UPI,Coffee shop,2
+2024-08-17,Bills,6359.25,8,2024,Cash,Rent,3
+2024-08-17,Food,542.4,8,2024,UPI,Restaurant dinner,5
+2024-08-17,Travel,1266.28,8,2024,UPI,Parking fee,4
+2024-08-17,Education,5700.45,8,2024,Credit Card,Course fee,5
+2024-08-18,Other,1830.21,8,2024,Wallet,Personal care,1
+2024-08-18,Medical,924.22,8,2024,Credit Card,Medicines,3
+2024-08-18,Food,230.59,8,2024,UPI,Grocery shopping,4
+2024-08-19,Entertainment,1203.1,8,2024,UPI,Gaming,5
+2024-08-19,Entertainment,2550.95,8,2024,Debit Card,Sports event,3
+2024-08-19,Bills,1958.94,8,2024,Credit Card,Water bill,3
+2024-08-20,Education,4452.92,8,2024,Debit Card,Books,3
+2024-08-21,Education,5918.53,8,2024,Credit Card,Course fee,3
+2024-08-21,Travel,1969.45,8,2024,UPI,Parking fee,3
+2024-08-23,Bills,553.93,8,2024,Debit Card,Rent,5
+2024-08-23,Shopping,2156.76,8,2024,UPI,Clothing,1
+2024-08-23,Shopping,10549.81,8,2024,UPI,Electronics,1
+2024-08-23,Entertainment,1296.04,8,2024,Credit Card,Concert,2
+2024-08-27,Other,1586.26,8,2024,Debit Card,Pet supplies,1
+2024-08-28,Shopping,14135.62,8,2024,UPI,Online order,1
+2024-08-28,Education,8752.88,8,2024,UPI,Course fee,2
+2024-08-29,Entertainment,388.13,8,2024,Credit Card,Concert,4
+2024-08-29,Food,677.12,8,2024,Debit Card,Restaurant dinner,2
+2024-08-29,Food,339.65,8,2024,UPI,Coffee shop,3
+2024-08-30,Shopping,5512.6,8,2024,Wallet,Accessories,1
+2024-08-30,Travel,2876.82,8,2024,UPI,Fuel,3
+2024-08-31,Travel,171.82,8,2024,Debit Card,Train ticket,3
+2024-08-31,Shopping,14425.54,8,2024,Debit Card,Electronics,5
+2024-09-02,Food,2201.12,9,2024,Cash,Grocery shopping,3
+2024-09-02,Education,3245.35,9,2024,Credit Card,Books,5
+2024-09-02,Food,1691.09,9,2024,UPI,Home delivery,5
+2024-09-03,Bills,5344.27,9,2024,UPI,Water bill,4
+2024-09-03,Shopping,8990.16,9,2024,Net Banking,Online order,1
+2024-09-03,Entertainment,2435.75,9,2024,UPI,Sports event,5
+2024-09-05,Travel,1010.88,9,2024,Wallet,Cab ride,4
+2024-09-05,Bills,5778.26,9,2024,Wallet,Water bill,4
+2024-09-05,Medical,930.96,9,2024,UPI,Medicines,1
+2024-09-05,Travel,862.49,9,2024,UPI,Train ticket,4
+2024-09-06,Shopping,6126.66,9,2024,UPI,Clothing,1
+2024-09-06,Other,1380.98,9,2024,UPI,Repair,5
+2024-09-07,Education,4142.2,9,2024,Credit Card,Course fee,1
+2024-09-10,Food,99.93,9,2024,UPI,Restaurant dinner,1
+2024-09-10,Bills,4968.61,9,2024,Credit Card,Electricity bill,2
+2024-09-10,Shopping,2495.8,9,2024,Wallet,Electronics,2
+2024-09-10,Travel,2997.96,9,2024,UPI,Train ticket,1
+2024-09-10,Bills,2498.95,9,2024,Cash,Rent,1
+2024-09-11,Travel,2368.5,9,2024,UPI,Cab ride,4
+2024-09-11,Medical,3040.04,9,2024,UPI,Health checkup,1
+2024-09-11,Food,2198.61,9,2024,UPI,Coffee shop,1
+2024-09-12,Other,286.65,9,2024,Net Banking,Donation,1
+2024-09-13,Shopping,4671.4,9,2024,Net Banking,Footwear,4
+2024-09-13,Food,1678.05,9,2024,UPI,Snacks,3
+2024-09-13,Bills,7745.42,9,2024,Credit Card,Gas bill,5
+2024-09-14,Other,1416.36,9,2024,UPI,Miscellaneous,2
+2024-09-15,Entertainment,1463.89,9,2024,Cash,Sports event,4
+2024-09-15,Shopping,2466.28,9,2024,Debit Card,Gift purchase,5
+2024-09-16,Education,3699.52,9,2024,UPI,Books,3
+2024-09-17,Entertainment,2262.83,9,2024,Cash,Sports event,4
+2024-09-18,Bills,7241.81,9,2024,Wallet,Water bill,4
+2024-09-18,Entertainment,2693.38,9,2024,UPI,Movie ticket,2
+2024-09-18,Entertainment,1907.09,9,2024,Wallet,Sports event,4
+2024-09-20,Travel,1252.93,9,2024,Net Banking,Fuel,3
+2024-09-21,Travel,2644.55,9,2024,Net Banking,Parking fee,3
+2024-09-21,Travel,2189.5,9,2024,Cash,Cab ride,2
+2024-09-21,Other,1057.45,9,2024,Credit Card,Personal care,2
+2024-09-22,Other,196.23,9,2024,UPI,Miscellaneous,1
+2024-09-24,Food,1804.67,9,2024,UPI,Restaurant dinner,3
+2024-09-24,Shopping,13265.62,9,2024,Cash,Footwear,3
+2024-09-24,Other,194.69,9,2024,Net Banking,Donation,3
+2024-09-25,Entertainment,2141.71,9,2024,Wallet,Streaming subscription,1
+2024-09-26,Food,277.87,9,2024,Debit Card,Snacks,1
+2024-09-27,Food,1729.7,9,2024,Credit Card,Fast food,5
+2024-09-28,Bills,6252.19,9,2024,Debit Card,Water bill,5
+2024-09-28,Bills,2730.5,9,2024,Cash,Electricity bill,5
+2024-09-30,Entertainment,2208.54,9,2024,UPI,Movie ticket,5
+2024-10-01,Food,1793.61,10,2024,UPI,Snacks,1
+2024-10-02,Education,1356.96,10,2024,UPI,Books,2
+2024-10-02,Entertainment,158.68,10,2024,UPI,Concert,4
+2024-10-02,Food,1878.08,10,2024,Credit Card,Restaurant dinner,5
+2024-10-03,Entertainment,1710.49,10,2024,UPI,Gaming,1
+2024-10-04,Other,1407.53,10,2024,UPI,Donation,5
+2024-10-04,Entertainment,2364.82,10,2024,Debit Card,Concert,4
+2024-10-05,Travel,2682.29,10,2024,UPI,Cab ride,2
+2024-10-05,Medical,1388.45,10,2024,Debit Card,Health checkup,4
+2024-10-05,Entertainment,2100.72,10,2024,Debit Card,Gaming,4
+2024-10-06,Education,3228.05,10,2024,UPI,Stationery,2
+2024-10-06,Food,951.65,10,2024,Debit Card,Fast food,3
+2024-10-07,Travel,1733.23,10,2024,UPI,Auto rickshaw,3
+2024-10-08,Medical,1504.77,10,2024,Net Banking,Health checkup,5
+2024-10-08,Shopping,5771.84,10,2024,Credit Card,Accessories,3
+2024-10-10,Food,867.21,10,2024,Debit Card,Restaurant dinner,4
+2024-10-11,Entertainment,118.85,10,2024,Debit Card,Streaming subscription,4
+2024-10-11,Food,2395.17,10,2024,UPI,Coffee shop,3
+2024-10-12,Shopping,7739.2,10,2024,Wallet,Gift purchase,1
+2024-10-12,Education,8125.55,10,2024,Credit Card,Books,2
+2024-10-12,Medical,737.33,10,2024,Net Banking,Health checkup,4
+2024-10-13,Shopping,2399.74,10,2024,Debit Card,Online order,3
+2024-10-13,Shopping,8656.86,10,2024,Debit Card,Online order,4
+2024-10-15,Shopping,13258.62,10,2024,Debit Card,Gift purchase,1
+2024-10-16,Travel,351.07,10,2024,UPI,Cab ride,5
+2024-10-16,Food,310.35,10,2024,Debit Card,Restaurant dinner,1
+2024-10-18,Food,171.65,10,2024,Debit Card,Home delivery,1
+2024-10-18,Education,5679.32,10,2024,UPI,Exam fee,5
+2024-10-19,Entertainment,1324.92,10,2024,Credit Card,Movie ticket,5
+2024-10-20,Bills,1598.21,10,2024,Debit Card,Electricity bill,2
+2024-10-21,Bills,3137.35,10,2024,Credit Card,Gas bill,1
+2024-10-22,Shopping,7136.73,10,2024,Debit Card,Accessories,5
+2024-10-22,Bills,3503.39,10,2024,Cash,Gas bill,4
+2024-10-22,Food,1285.43,10,2024,UPI,Home delivery,5
+2024-10-22,Education,6964.35,10,2024,UPI,Online course,3
+2024-10-24,Entertainment,2568.95,10,2024,Debit Card,Streaming subscription,1
+2024-10-24,Food,1277.75,10,2024,UPI,Grocery shopping,5
+2024-10-25,Travel,965.58,10,2024,Debit Card,Train ticket,2
+2024-10-27,Shopping,6574.16,10,2024,Credit Card,Electronics,1
+2024-10-27,Travel,267.8,10,2024,UPI,Parking fee,2
+2024-10-27,Food,1894.01,10,2024,Credit Card,Home delivery,3
+2024-10-28,Shopping,2173.9,10,2024,Debit Card,Footwear,3
+2024-10-29,Food,858.17,10,2024,Credit Card,Fast food,4
+2024-10-29,Shopping,13265.12,10,2024,Cash,Footwear,2
+2024-10-29,Other,330.95,10,2024,Wallet,Repair,5
+2024-10-31,Shopping,10391.48,10,2024,UPI,Electronics,4
+2024-11-01,Education,8563.79,11,2024,Credit Card,Online course,3
+2024-11-01,Medical,625.77,11,2024,UPI,Lab test,1
+2024-11-02,Other,251.99,11,2024,UPI,Donation,5
+2024-11-02,Bills,4304.86,11,2024,Credit Card,Gas bill,5
+2024-11-02,Shopping,446.23,11,2024,Debit Card,Accessories,5
+2024-11-02,Shopping,1338.44,11,2024,Wallet,Accessories,4
+2024-11-02,Entertainment,1688.64,11,2024,Debit Card,Concert,5
+2024-11-03,Shopping,13949.47,11,2024,Cash,Clothing,2
+2024-11-03,Travel,1683.45,11,2024,Net Banking,Auto rickshaw,4
+2024-11-04,Shopping,12539.13,11,2024,UPI,Accessories,2
+2024-11-04,Shopping,14467.59,11,2024,Wallet,Clothing,5
+2024-11-04,Travel,463.43,11,2024,UPI,Bus ticket,3
+2024-11-04,Food,1536.97,11,2024,Debit Card,Restaurant dinner,1
+2024-11-04,Shopping,1694.5,11,2024,UPI,Online order,1
+2024-11-05,Bills,7904.25,11,2024,Credit Card,Rent,5
+2024-11-05,Food,2335.18,11,2024,Cash,Coffee shop,2
+2024-11-07,Food,658.07,11,2024,Debit Card,Home delivery,2
+2024-11-07,Education,2577.32,11,2024,Credit Card,Stationery,5
+2024-11-07,Entertainment,1730.76,11,2024,Wallet,Gaming,5
+2024-11-08,Education,7601.28,11,2024,Debit Card,Online course,4
+2024-11-11,Entertainment,2203.44,11,2024,Credit Card,Movie ticket,4
+2024-11-11,Shopping,4045.14,11,2024,Cash,Accessories,4
+2024-11-12,Other,1579.52,11,2024,UPI,Donation,2
+2024-11-13,Food,537.87,11,2024,Cash,Grocery shopping,2
+2024-11-13,Medical,4946.7,11,2024,Credit Card,Health checkup,3
+2024-11-13,Other,989.22,11,2024,Net Banking,Donation,5
+2024-11-14,Bills,5290.33,11,2024,UPI,Mobile recharge,5
+2024-11-15,Medical,4549.33,11,2024,UPI,Medicines,1
+2024-11-18,Travel,374.29,11,2024,Net Banking,Train ticket,1
+2024-11-18,Shopping,14783.35,11,2024,Net Banking,Online order,3
+2024-11-19,Shopping,1179.59,11,2024,Net Banking,Online order,1
+2024-11-20,Other,1788.28,11,2024,Net Banking,Pet supplies,5
+2024-11-20,Shopping,1554.5,11,2024,UPI,Accessories,4
+2024-11-21,Shopping,3657.45,11,2024,UPI,Electronics,3
+2024-11-21,Entertainment,2123.12,11,2024,Cash,Sports event,5
+2024-11-22,Food,350.18,11,2024,UPI,Fast food,1
+2024-11-22,Food,159.47,11,2024,UPI,Snacks,4
+2024-11-22,Bills,719.78,11,2024,Cash,Mobile recharge,1
+2024-11-23,Other,772.87,11,2024,Cash,Personal care,4
+2024-11-24,Food,2196.83,11,2024,Credit Card,Snacks,5
+2024-11-24,Travel,1267.82,11,2024,Cash,Parking fee,4
+2024-11-24,Medical,4746.24,11,2024,Wallet,Doctor visit,2
+2024-11-25,Shopping,6743.97,11,2024,Credit Card,Electronics,4
+2024-11-25,Bills,992.62,11,2024,Debit Card,Mobile recharge,1
+2024-11-25,Entertainment,1203.92,11,2024,Debit Card,Sports event,5
+2024-11-26,Bills,693.99,11,2024,Wallet,Internet bill,4
+2024-11-26,Entertainment,1918.93,11,2024,UPI,Streaming subscription,5
+2024-11-27,Food,700.15,11,2024,Debit Card,Restaurant dinner,2
+2024-11-27,Other,63.32,11,2024,UPI,Personal care,4
+2024-11-28,Shopping,9041.4,11,2024,Credit Card,Accessories,5
+2024-11-28,Entertainment,135.79,11,2024,UPI,Gaming,5
+2024-11-28,Entertainment,857.33,11,2024,UPI,Concert,3
+2024-11-29,Entertainment,1454.86,11,2024,Wallet,Sports event,3
+2024-12-01,Food,1268.59,12,2024,UPI,Fast food,3
+2024-12-01,Other,1456.2,12,2024,Debit Card,Donation,2
+2024-12-01,Food,1689.68,12,2024,Wallet,Restaurant dinner,5
+2024-12-01,Food,1169.03,12,2024,UPI,Coffee shop,3
+2024-12-02,Entertainment,2043.34,12,2024,Cash,Sports event,4
+2024-12-02,Shopping,6678.17,12,2024,UPI,Online order,2
+2024-12-02,Bills,2792.57,12,2024,UPI,Gas bill,4
+2024-12-03,Travel,2176.96,12,2024,UPI,Cab ride,3
+2024-12-04,Bills,5475.41,12,2024,Debit Card,Electricity bill,1
+2024-12-04,Shopping,6915.43,12,2024,UPI,Accessories,5
+2024-12-04,Shopping,14074.92,12,2024,UPI,Clothing,1
+2024-12-04,Education,4918.86,12,2024,Credit Card,Online course,4
+2024-12-05,Other,274.92,12,2024,UPI,Repair,5
+2024-12-05,Shopping,11148.23,12,2024,Debit Card,Gift purchase,5
+2024-12-05,Entertainment,1442.26,12,2024,Debit Card,Concert,2
+2024-12-06,Food,913.13,12,2024,Net Banking,Coffee shop,1
+2024-12-07,Travel,340.66,12,2024,UPI,Bus ticket,4
+2024-12-07,Food,358.51,12,2024,UPI,Home delivery,1
+2024-12-09,Bills,2166.9,12,2024,Debit Card,Internet bill,2
+2024-12-10,Food,2134.83,12,2024,Credit Card,Restaurant dinner,4
+2024-12-11,Medical,739.91,12,2024,Debit Card,Medicines,3
+2024-12-12,Entertainment,1458.16,12,2024,UPI,Movie ticket,3
+2024-12-12,Medical,3472.38,12,2024,Cash,Health checkup,2
+2024-12-13,Food,1958.84,12,2024,Credit Card,Grocery shopping,3
+2024-12-13,Other,1017.6,12,2024,UPI,Personal care,4
+2024-12-13,Other,944.75,12,2024,Net Banking,Personal care,2
+2024-12-14,Food,175.87,12,2024,UPI,Fast food,4
+2024-12-14,Other,1040.09,12,2024,UPI,Miscellaneous,4
+2024-12-16,Shopping,8627.17,12,2024,UPI,Footwear,2
+2024-12-16,Other,1005.85,12,2024,UPI,Donation,2
+2024-12-17,Education,2379.16,12,2024,Debit Card,Exam fee,2
+2024-12-18,Education,5503.4,12,2024,Wallet,Books,4
+2024-12-18,Other,1029.67,12,2024,UPI,Personal care,4
+2024-12-18,Entertainment,866.0,12,2024,Credit Card,Gaming,5
+2024-12-18,Entertainment,1254.58,12,2024,Net Banking,Streaming subscription,3
+2024-12-19,Other,304.99,12,2024,Credit Card,Repair,3
+2024-12-19,Other,1619.0,12,2024,Cash,Repair,4
+2024-12-19,Shopping,7335.23,12,2024,Cash,Online order,3
+2024-12-20,Other,1061.85,12,2024,Net Banking,Repair,2
+2024-12-20,Other,1329.15,12,2024,UPI,Personal care,1
+2024-12-20,Food,1120.87,12,2024,UPI,Grocery shopping,5
+2024-12-24,Travel,2517.83,12,2024,Debit Card,Fuel,4
+2024-12-24,Bills,6060.46,12,2024,Credit Card,Rent,4
+2024-12-25,Entertainment,1869.76,12,2024,UPI,Gaming,5
+2024-12-25,Education,6355.18,12,2024,Wallet,Course fee,4
+2024-12-27,Food,1070.59,12,2024,Debit Card,Snacks,5
+2024-12-28,Entertainment,2829.28,12,2024,Net Banking,Gaming,4
+2024-12-29,Travel,1546.02,12,2024,UPI,Parking fee,3
+2024-12-30,Food,311.39,12,2024,Debit Card,Grocery shopping,2
+2024-12-31,Food,1492.93,12,2024,UPI,Restaurant dinner,5
+2025-01-01,Food,661.35,1,2025,UPI,Grocery shopping,1
+2025-01-01,Other,454.89,1,2025,Credit Card,Repair,1
+2025-01-01,Food,1783.82,1,2025,UPI,Home delivery,5
+2025-01-02,Medical,4242.55,1,2025,UPI,Health checkup,4
+2025-01-04,Food,1338.85,1,2025,Debit Card,Home delivery,5
+2025-01-04,Other,307.37,1,2025,UPI,Pet supplies,1
+2025-01-05,Medical,3552.4,1,2025,Debit Card,Pharmacy,5
+2025-01-05,Food,1432.21,1,2025,Net Banking,Grocery shopping,5
+2025-01-07,Medical,3774.5,1,2025,Wallet,Doctor visit,4
+2025-01-08,Education,1083.31,1,2025,UPI,Stationery,1
+2025-01-08,Entertainment,2880.11,1,2025,Cash,Streaming subscription,5
+2025-01-09,Food,175.34,1,2025,UPI,Home delivery,4
+2025-01-09,Education,2150.77,1,2025,UPI,Exam fee,3
+2025-01-12,Shopping,8057.64,1,2025,Wallet,Footwear,5
+2025-01-12,Shopping,7423.06,1,2025,Cash,Online order,3
+2025-01-13,Travel,993.42,1,2025,Credit Card,Auto rickshaw,2
+2025-01-13,Food,1688.03,1,2025,Wallet,Home delivery,3
+2025-01-14,Food,1636.48,1,2025,Net Banking,Grocery shopping,4
+2025-01-16,Food,1699.65,1,2025,UPI,Grocery shopping,1
+2025-01-16,Entertainment,630.32,1,2025,UPI,Gaming,1
+2025-01-17,Shopping,8328.67,1,2025,Debit Card,Footwear,5
+2025-01-17,Bills,4331.19,1,2025,Credit Card,Water bill,2
+2025-01-17,Other,1789.41,1,2025,UPI,Pet supplies,2
+2025-01-17,Food,2211.3,1,2025,UPI,Fast food,1
+2025-01-18,Other,1389.3,1,2025,Cash,Personal care,3
+2025-01-18,Food,830.78,1,2025,Net Banking,Grocery shopping,1
+2025-01-18,Other,795.84,1,2025,UPI,Personal care,4
+2025-01-21,Shopping,4962.3,1,2025,Wallet,Electronics,5
+2025-01-24,Food,1717.78,1,2025,Credit Card,Grocery shopping,5
+2025-01-24,Food,1565.61,1,2025,Debit Card,Restaurant dinner,5
+2025-01-24,Entertainment,1055.67,1,2025,UPI,Concert,3
+2025-01-25,Shopping,10022.59,1,2025,Wallet,Gift purchase,4
+2025-01-25,Entertainment,2826.85,1,2025,Debit Card,Movie ticket,3
+2025-01-25,Food,1692.12,1,2025,UPI,Restaurant dinner,1
+2025-01-25,Bills,3978.14,1,2025,Net Banking,Internet bill,1
+2025-01-26,Bills,1796.05,1,2025,Wallet,Internet bill,1
+2025-01-27,Bills,5798.14,1,2025,UPI,Electricity bill,2
+2025-01-27,Food,1950.08,1,2025,UPI,Grocery shopping,2
+2025-01-27,Shopping,7402.72,1,2025,Debit Card,Online order,5
+2025-01-27,Other,398.97,1,2025,Credit Card,Miscellaneous,3
+2025-01-27,Food,538.67,1,2025,UPI,Home delivery,3
+2025-01-28,Shopping,8403.88,1,2025,Net Banking,Gift purchase,5
+2025-01-28,Shopping,6554.95,1,2025,UPI,Electronics,1
+2025-01-28,Other,831.26,1,2025,UPI,Pet supplies,1
+2025-01-30,Travel,2179.49,1,2025,Wallet,Parking fee,5
+2025-01-30,Travel,2180.21,1,2025,Wallet,Cab ride,1
+2025-02-01,Shopping,12620.49,2,2025,UPI,Electronics,2
+2025-02-01,Shopping,6928.72,2,2025,Cash,Clothing,3
+2025-02-03,Travel,2358.69,2,2025,UPI,Train ticket,1
+2025-02-05,Food,1786.64,2,2025,UPI,Grocery shopping,3
+2025-02-06,Shopping,8745.9,2,2025,Debit Card,Accessories,2
+2025-02-09,Medical,3418.2,2,2025,Net Banking,Lab test,3
+2025-02-09,Bills,3024.21,2,2025,UPI,Mobile recharge,3
+2025-02-10,Other,1618.95,2,2025,Cash,Repair,2
+2025-02-10,Other,686.43,2,2025,Debit Card,Repair,5
+2025-02-10,Medical,4297.46,2,2025,Credit Card,Health checkup,5
+2025-02-10,Medical,4980.47,2,2025,UPI,Pharmacy,1
+2025-02-12,Shopping,14960.42,2,2025,Credit Card,Electronics,4
+2025-02-12,Shopping,1607.27,2,2025,UPI,Footwear,4
+2025-02-14,Shopping,8739.91,2,2025,Cash,Gift purchase,1
+2025-02-14,Entertainment,2422.48,2,2025,Debit Card,Sports event,5
+2025-02-17,Shopping,7265.52,2,2025,Cash,Clothing,4
+2025-02-17,Shopping,8445.54,2,2025,Net Banking,Clothing,1
+2025-02-18,Education,8436.96,2,2025,Wallet,Course fee,3
+2025-02-18,Education,4293.4,2,2025,UPI,Books,5
+2025-02-18,Shopping,722.72,2,2025,Wallet,Gift purchase,4
+2025-02-20,Other,1511.48,2,2025,Net Banking,Donation,5
+2025-02-21,Other,595.49,2,2025,UPI,Repair,4
+2025-02-21,Food,269.57,2,2025,Cash,Home delivery,5
+2025-02-21,Shopping,9527.22,2,2025,UPI,Footwear,3
+2025-02-22,Bills,1543.84,2,2025,UPI,Mobile recharge,1
+2025-02-22,Travel,46.24,2,2025,Debit Card,Parking fee,5
+2025-02-22,Shopping,2490.72,2,2025,Credit Card,Gift purchase,3
+2025-02-24,Medical,3096.24,2,2025,Net Banking,Medicines,2
+2025-02-26,Food,1854.58,2,2025,Debit Card,Coffee shop,2
+2025-02-27,Shopping,5804.95,2,2025,UPI,Online order,2
+2025-02-27,Other,1199.97,2,2025,Cash,Pet supplies,3
+2025-03-04,Other,1836.02,3,2025,UPI,Donation,4
+2025-03-05,Bills,5949.49,3,2025,Debit Card,Water bill,5
+2025-03-05,Entertainment,1855.98,3,2025,Credit Card,Streaming subscription,5
+2025-03-06,Entertainment,1060.82,3,2025,Credit Card,Concert,3
+2025-03-07,Bills,4787.28,3,2025,Cash,Electricity bill,3
+2025-03-09,Shopping,12984.78,3,2025,Debit Card,Clothing,3
+2025-03-09,Entertainment,314.5,3,2025,Credit Card,Sports event,2
+2025-03-09,Medical,3098.22,3,2025,Debit Card,Medicines,3
+2025-03-10,Shopping,6742.25,3,2025,UPI,Accessories,4
+2025-03-10,Entertainment,696.18,3,2025,Debit Card,Gaming,2
+2025-03-10,Food,1766.75,3,2025,UPI,Coffee shop,4
+2025-03-11,Food,2020.07,3,2025,Credit Card,Snacks,1
+2025-03-11,Food,600.78,3,2025,Wallet,Restaurant dinner,2
+2025-03-12,Entertainment,1688.83,3,2025,Debit Card,Streaming subscription,5
+2025-03-12,Bills,4177.02,3,2025,Cash,Water bill,4
+2025-03-12,Food,1137.58,3,2025,Cash,Fast food,4
+2025-03-13,Medical,329.73,3,2025,Wallet,Lab test,2
+2025-03-15,Travel,1874.45,3,2025,Wallet,Auto rickshaw,5
+2025-03-16,Food,1769.36,3,2025,Debit Card,Snacks,5
+2025-03-16,Food,291.59,3,2025,Credit Card,Restaurant dinner,3
+2025-03-20,Food,1550.13,3,2025,UPI,Grocery shopping,1
+2025-03-21,Travel,2940.68,3,2025,Cash,Cab ride,3
+2025-03-21,Food,694.58,3,2025,Cash,Coffee shop,4
+2025-03-22,Bills,4187.94,3,2025,Credit Card,Electricity bill,5
+2025-03-22,Food,2306.85,3,2025,Credit Card,Coffee shop,1
+2025-03-23,Entertainment,2885.92,3,2025,UPI,Concert,2
+2025-03-24,Entertainment,1505.66,3,2025,Wallet,Movie ticket,3
+2025-03-24,Food,214.72,3,2025,UPI,Snacks,2
+2025-03-25,Entertainment,440.42,3,2025,UPI,Streaming subscription,1
+2025-03-26,Food,238.87,3,2025,UPI,Snacks,2
+2025-03-27,Shopping,4370.22,3,2025,Credit Card,Footwear,5
+2025-03-27,Shopping,14879.21,3,2025,UPI,Footwear,2
+2025-03-28,Education,2194.87,3,2025,UPI,Exam fee,4
+2025-03-28,Bills,6472.47,3,2025,Cash,Gas bill,4
+2025-03-29,Entertainment,2582.3,3,2025,Cash,Movie ticket,1
+2025-03-29,Entertainment,351.4,3,2025,UPI,Movie ticket,5
+2025-03-29,Bills,1484.58,3,2025,Cash,Internet bill,3
+2025-03-30,Food,783.69,3,2025,Cash,Grocery shopping,1
+2025-03-30,Bills,6142.93,3,2025,UPI,Water bill,2
+2025-03-31,Food,2373.79,3,2025,UPI,Home delivery,5
+2025-04-01,Entertainment,1414.95,4,2025,UPI,Sports event,5
+2025-04-02,Food,563.73,4,2025,Cash,Snacks,3
+2025-04-02,Travel,2942.59,4,2025,Debit Card,Parking fee,4
+2025-04-04,Food,499.55,4,2025,UPI,Fast food,2
+2025-04-04,Bills,7115.36,4,2025,Debit Card,Rent,5
+2025-04-04,Bills,4035.6,4,2025,UPI,Water bill,2
+2025-04-05,Travel,764.3,4,2025,UPI,Parking fee,4
+2025-04-06,Shopping,2921.52,4,2025,UPI,Clothing,5
+2025-04-07,Food,600.51,4,2025,Cash,Coffee shop,5
+2025-04-07,Medical,4732.54,4,2025,Debit Card,Pharmacy,1
+2025-04-07,Food,1996.77,4,2025,UPI,Grocery shopping,4
+2025-04-10,Travel,2290.85,4,2025,UPI,Train ticket,2
+2025-04-11,Shopping,9343.96,4,2025,Wallet,Gift purchase,5
+2025-04-11,Medical,371.65,4,2025,UPI,Health checkup,4
+2025-04-11,Education,6044.43,4,2025,UPI,Stationery,3
+2025-04-12,Other,627.24,4,2025,Cash,Personal care,2
+2025-04-12,Bills,5268.88,4,2025,UPI,Gas bill,5
+2025-04-13,Food,2099.88,4,2025,Credit Card,Fast food,5
+2025-04-13,Food,543.9,4,2025,Net Banking,Restaurant dinner,1
+2025-04-13,Bills,7671.43,4,2025,Wallet,Internet bill,4
+2025-04-14,Bills,5729.67,4,2025,Debit Card,Electricity bill,1
+2025-04-14,Other,215.56,4,2025,Credit Card,Miscellaneous,3
+2025-04-15,Medical,4952.14,4,2025,UPI,Doctor visit,4
+2025-04-17,Other,458.81,4,2025,Net Banking,Repair,1
+2025-04-17,Bills,1048.58,4,2025,Cash,Rent,5
+2025-04-18,Shopping,2976.22,4,2025,Debit Card,Accessories,1
+2025-04-19,Bills,4583.34,4,2025,UPI,Gas bill,3
+2025-04-20,Other,983.14,4,2025,Net Banking,Donation,2
+2025-04-20,Food,1536.32,4,2025,Net Banking,Coffee shop,4
+2025-04-22,Shopping,3261.15,4,2025,UPI,Footwear,3
+2025-04-22,Travel,1576.29,4,2025,UPI,Auto rickshaw,2
+2025-04-25,Shopping,277.72,4,2025,Cash,Clothing,2
+2025-04-26,Food,2050.64,4,2025,UPI,Fast food,1
+2025-04-26,Medical,2266.92,4,2025,UPI,Lab test,2
+2025-04-27,Food,683.7,4,2025,Debit Card,Home delivery,1
+2025-04-28,Food,1400.6,4,2025,UPI,Fast food,4
+2025-04-28,Food,1051.72,4,2025,Debit Card,Restaurant dinner,1
+2025-04-28,Bills,1614.75,4,2025,UPI,Water bill,5
+2025-04-29,Entertainment,652.19,4,2025,Debit Card,Movie ticket,2
+2025-04-29,Food,602.09,4,2025,UPI,Snacks,2
+2025-04-29,Entertainment,994.22,4,2025,Credit Card,Gaming,1
+2025-04-29,Education,3760.29,4,2025,UPI,Online course,5
+2025-04-29,Entertainment,612.16,4,2025,UPI,Gaming,2
+2025-04-30,Food,588.67,4,2025,UPI,Snacks,1
+2025-05-01,Travel,2774.75,5,2025,Wallet,Parking fee,5
+2025-05-02,Travel,1202.57,5,2025,Cash,Parking fee,2
+2025-05-02,Entertainment,379.28,5,2025,UPI,Concert,3
+2025-05-03,Bills,6169.33,5,2025,UPI,Mobile recharge,4
+2025-05-03,Travel,2304.63,5,2025,Credit Card,Fuel,4
+2025-05-04,Food,2298.85,5,2025,Net Banking,Restaurant dinner,5
+2025-05-06,Food,113.05,5,2025,Debit Card,Restaurant dinner,5
+2025-05-06,Bills,7570.05,5,2025,UPI,Rent,3
+2025-05-07,Food,1032.55,5,2025,UPI,Grocery shopping,4
+2025-05-07,Entertainment,1708.17,5,2025,Debit Card,Movie ticket,1
+2025-05-08,Food,315.14,5,2025,UPI,Home delivery,2
+2025-05-08,Travel,2038.6,5,2025,UPI,Train ticket,2
+2025-05-08,Food,215.51,5,2025,Debit Card,Snacks,1
+2025-05-09,Education,4426.97,5,2025,Debit Card,Course fee,5
+2025-05-09,Entertainment,2067.34,5,2025,Debit Card,Streaming subscription,5
+2025-05-09,Food,1419.78,5,2025,UPI,Fast food,4
+2025-05-10,Shopping,12420.87,5,2025,UPI,Online order,5
+2025-05-10,Travel,1781.07,5,2025,Credit Card,Auto rickshaw,2
+2025-05-10,Food,653.97,5,2025,UPI,Home delivery,3
+2025-05-10,Other,128.82,5,2025,UPI,Personal care,2
+2025-05-11,Bills,2559.48,5,2025,Debit Card,Electricity bill,5
+2025-05-12,Food,374.16,5,2025,Credit Card,Home delivery,3
+2025-05-12,Food,2499.94,5,2025,Cash,Restaurant dinner,3
+2025-05-13,Food,776.93,5,2025,Credit Card,Grocery shopping,5
+2025-05-14,Entertainment,204.11,5,2025,UPI,Movie ticket,3
+2025-05-14,Food,1353.92,5,2025,Cash,Fast food,4
+2025-05-15,Food,2228.94,5,2025,Wallet,Snacks,5
+2025-05-15,Food,1435.22,5,2025,UPI,Restaurant dinner,4
+2025-05-16,Entertainment,1394.99,5,2025,UPI,Gaming,3
+2025-05-16,Entertainment,2361.28,5,2025,Debit Card,Streaming subscription,2
+2025-05-17,Food,80.05,5,2025,Credit Card,Coffee shop,2
+2025-05-17,Food,382.53,5,2025,Credit Card,Grocery shopping,3
+2025-05-17,Shopping,11045.03,5,2025,UPI,Accessories,4
+2025-05-17,Food,1404.94,5,2025,UPI,Fast food,4
+2025-05-17,Food,187.61,5,2025,UPI,Home delivery,2
+2025-05-17,Food,934.03,5,2025,Cash,Fast food,5
+2025-05-21,Shopping,2384.06,5,2025,Cash,Gift purchase,4
+2025-05-22,Food,1885.06,5,2025,Net Banking,Coffee shop,4
+2025-05-23,Entertainment,2718.51,5,2025,Debit Card,Streaming subscription,1
+2025-05-23,Other,1392.0,5,2025,UPI,Personal care,1
+2025-05-24,Other,329.08,5,2025,Debit Card,Personal care,2
+2025-05-24,Entertainment,1682.17,5,2025,Credit Card,Concert,1
+2025-05-25,Other,619.13,5,2025,UPI,Repair,2
+2025-05-26,Medical,4722.98,5,2025,UPI,Lab test,2
+2025-05-27,Education,5175.28,5,2025,Net Banking,Books,3
+2025-05-27,Medical,2245.02,5,2025,Cash,Health checkup,3
+2025-05-29,Travel,2585.39,5,2025,Credit Card,Bus ticket,1
+2025-05-30,Bills,1752.65,5,2025,UPI,Electricity bill,4
+2025-05-31,Food,948.15,5,2025,Debit Card,Snacks,1
+2025-06-01,Shopping,13598.98,6,2025,Cash,Clothing,3
+2025-06-01,Shopping,3762.78,6,2025,UPI,Online order,4
+2025-06-01,Bills,3568.51,6,2025,UPI,Water bill,4
+2025-06-02,Other,1745.79,6,2025,Credit Card,Personal care,4
+2025-06-02,Travel,2146.51,6,2025,UPI,Train ticket,4
+2025-06-03,Bills,1646.29,6,2025,Credit Card,Internet bill,3
+2025-06-03,Travel,1242.93,6,2025,Debit Card,Train ticket,3
+2025-06-03,Entertainment,2521.85,6,2025,Cash,Sports event,1
+2025-06-03,Bills,6594.82,6,2025,UPI,Gas bill,1
+2025-06-04,Education,1537.78,6,2025,UPI,Books,5
+2025-06-04,Shopping,5566.45,6,2025,Wallet,Electronics,4
+2025-06-04,Entertainment,2739.53,6,2025,UPI,Sports event,4
+2025-06-07,Food,2253.79,6,2025,UPI,Restaurant dinner,4
+2025-06-07,Food,329.81,6,2025,Net Banking,Home delivery,4
+2025-06-08,Food,500.78,6,2025,Net Banking,Home delivery,4
+2025-06-10,Entertainment,1392.12,6,2025,UPI,Movie ticket,3
+2025-06-11,Medical,3620.87,6,2025,UPI,Lab test,1
+2025-06-11,Shopping,13210.32,6,2025,Cash,Footwear,4
+2025-06-11,Food,2331.85,6,2025,UPI,Coffee shop,2
+2025-06-13,Entertainment,2064.85,6,2025,UPI,Sports event,5
+2025-06-13,Travel,2918.84,6,2025,Credit Card,Bus ticket,1
+2025-06-14,Travel,129.82,6,2025,Credit Card,Auto rickshaw,2
+2025-06-14,Shopping,10400.32,6,2025,Debit Card,Clothing,1
+2025-06-17,Food,1287.59,6,2025,Credit Card,Fast food,2
+2025-06-19,Medical,4130.28,6,2025,UPI,Lab test,3
+2025-06-19,Shopping,8125.61,6,2025,Credit Card,Footwear,4
+2025-06-19,Entertainment,426.3,6,2025,UPI,Streaming subscription,1
+2025-06-19,Other,747.95,6,2025,UPI,Personal care,3
+2025-06-19,Food,67.63,6,2025,UPI,Snacks,5
+2025-06-20,Shopping,14090.7,6,2025,Credit Card,Online order,5
+2025-06-21,Travel,1266.48,6,2025,UPI,Bus ticket,4
+2025-06-22,Shopping,6259.62,6,2025,Cash,Online order,4
+2025-06-23,Bills,840.63,6,2025,Wallet,Water bill,4
+2025-06-23,Travel,1082.69,6,2025,Cash,Train ticket,5
+2025-06-24,Other,661.14,6,2025,Debit Card,Personal care,4
+2025-06-25,Food,2447.87,6,2025,Debit Card,Grocery shopping,4
+2025-06-26,Shopping,8843.04,6,2025,Wallet,Electronics,4
+2025-06-26,Travel,190.56,6,2025,UPI,Bus ticket,4
+2025-06-27,Medical,4539.02,6,2025,UPI,Lab test,1
+2025-06-27,Education,5621.62,6,2025,Net Banking,Online course,1
+2025-06-29,Education,5102.57,6,2025,Cash,Stationery,4
+2025-06-30,Food,1620.42,6,2025,Wallet,Home delivery,5
+2025-06-30,Food,210.41,6,2025,Debit Card,Snacks,5
+2025-06-30,Education,7896.26,6,2025,UPI,Stationery,5
